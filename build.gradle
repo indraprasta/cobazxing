@@ -8,7 +8,7 @@ version '1.0-SNAPSHOT'
 sourceCompatibility = 1.8
 
 if (!hasProperty('mainClass')) {
-    ext.mainClass = 'org.unindra.cobazxing.Main'
+    ext.mainClass = 'org.unindra.cobazxing.MainFX'
 }
 
 repositories {
